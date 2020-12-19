@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/scanQR"
+        android:title="Scan QR"
+        />
+
+    <item android:id="@+id/generateQR"
+        android:title="Generate QR"
+        />
+    <item android:id="@+id/historyQR"
+        android:title="History"
+        />
+
+    <item android:id="@+id/favouritesQR"
+        android:title="Favourites"
+        />
+
+    <item android:id="@+id/shareQR"
+        android:title="Share"
+        />
+
+
+
+</menu>
